@@ -16,7 +16,7 @@ Pands weekly tasks are part of the __Programming For Data Analytics__ module 202
 
 ## Tasks:
 
-### __Weekly task 02:__  
+### __Weekly Assignment 02:__  
 
 * Name: [assignment2-weather.ipynb](assignment2-weather.ipynb)
 
@@ -26,7 +26,7 @@ Pands weekly tasks are part of the __Programming For Data Analytics__ module 202
 
 ***
 
-### __Weekly task 03:__  
+### __Weekly Assignment 03:__  
 
 * Name: [assignment03-pie.ipynb](assignment03-pie.ipynb)
 
@@ -34,7 +34,7 @@ Pands weekly tasks are part of the __Programming For Data Analytics__ module 202
 
 * Resources: weekly lectures
 
-### __Weekly task 05:__  
+### __Weekly Assignment 05:__  
 
 * Name: [assignment_5_risk.ipynb](assignment_5_risk.ipynb)
 
@@ -42,7 +42,7 @@ Pands weekly tasks are part of the __Programming For Data Analytics__ module 202
 
 * Resources: weekly lectures
 
-### __Weekly task 06:__  
+### __Weekly Assignment 06:__  
 
 * Name: [assignment_6_Weather.ipynb](assignment_6_Weather.ipynb)
 
