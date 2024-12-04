@@ -48,7 +48,7 @@ Pands weekly tasks are part of the __Programming For Data Analytics__ module 202
 
 * Description: Create a.
 
-* Resources: weekly lectures
+* Resources: weekly lectures,https://community.sisense.com/t5/knowledge-base/dealing-with-missing-values-in-python/ta-p/9376
   
 
 
