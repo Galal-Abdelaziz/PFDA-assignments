@@ -3,7 +3,7 @@
 ***
 Author: Galal Abdelaziz
 
-Pands weekly tasks are part of the __Programming For Data Analytics__ module 2024/2025, at [ATU](https://www.atu.ie/).
+PFDA weekly assignments are part of the __Programming For Data Analytics__ module 2024/2025, at [ATU](https://www.atu.ie/).
 
 ***
 
