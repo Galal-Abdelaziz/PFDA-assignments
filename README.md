@@ -50,7 +50,7 @@ PFDA weekly assignments are part of the __Programming For Data Analytics__ modul
 * Resources: 
   * Weekly lectures.
   * Functions: [Numpy](https://numpy.org/doc/stable/);[Dice](https://realpython.com/python-dice-roll/); Random Number Generation [1](https://docs.python.org/3/library/random.html), [2](https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html)
-  * Game Simulator Examples Used as Reference: [1](https://stackoverflow.com/questions/74421396/risk-game-with-python), [2](https://stackoverflow.com/questions/40182073/python-risk-game-i-cant-get-it-to-compare-all-the-numbers-only-the-last-ones), [3](https://stackoverflow.com/questions/44015744/how-to-run-an-ezee-game-in-python-with-1000-rolls), [4](https://stackoverflow.com/questions/52263292/python-3-battle-simulation), [4](https://stackoverflow.com/questions/63952685/dice-rolling-game-in-python).
+  * Game Simulator Examples Used as Reference: [1](https://stackoverflow.com/questions/74421396/risk-game-with-python), [2](https://stackoverflow.com/questions/40182073/python-risk-game-i-cant-get-it-to-compare-all-the-numbers-only-the-last-ones), [3](https://stackoverflow.com/questions/44015744/how-to-run-an-ezee-game-in-python-with-1000-rolls), [4](https://stackoverflow.com/questions/52263292/python-3-battle-simulation), [5](https://stackoverflow.com/questions/63952685/dice-rolling-game-in-python).
   * Plotting: [1](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html), [2](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html), [3](https://matplotlib.org/stable/api/axes_api.html).
 
 ### __Weekly Assignment 06:__  
