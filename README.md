@@ -66,5 +66,12 @@ Weekly assignments are part of the __Programming For Data Analytics__ module 202
   * Calculations: [Resampling](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#resampling); [Calculating Mean](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mean.html); [Calculating Max](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.max.html); [Data Frame Filtring/Indexing](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#boolean-indexing); [Date Time Index](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset); [Rolling](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html). 
   * Plotting: [1](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html), [2](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html), [3](https://matplotlib.org/stable/api/axes_api.html).  
   
+***
 
+**Disclaimer**
 
+This repository includes content created with the assistance of an AI chat assistant. While the AI has provided valuable insights, code, and text generation, all content has been reviewed, modified, and verified by the repository's author to ensure accuracy and relevance.
+
+***
+
+## End
