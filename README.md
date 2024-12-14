@@ -14,6 +14,21 @@ Weekly assignments are part of the __Programming For Data Analytics__ module 202
 
 ***
 
+## Contents:
+
+* **files**: Conains .CSV files used for some of the requested tasks. 
+* **img**: Contains all images used for this project.
+
+* **.gitignore**: Specifies which files and directories should be ignored by Git when committing changes to a repository.
+* **README**: Contains information about the repository, including its purpose, structure, and usage instructions.
+
+* **assignment2-weather.ipynb**: Week 2 task.
+* **assignment03-pie.ipynb**: Week 3 task.
+* **assignment_5_risk.ipynb**: Week 5 task.
+* **assignment_6_Weather.ipynb**: Week 6 task.
+
+***
+
 ## Tasks:
 
 ### __Weekly Assignment 02:__  
